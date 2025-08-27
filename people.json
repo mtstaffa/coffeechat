@@ -352,22 +352,25 @@
         {
             "name": "Mike Staffa",
             "title": "Product Manager",
-            "company": "Zeals",
+            "company": "Peatix",
             "city": "Tokyo",
             "country": "Japan",
             "languages": ["English"],
             "linkedin": "https://www.linkedin.com/in/mikestaffa/",
             "twitter": "https://twitter.com/mtstaffa",
-            "scheduling": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2ORDYuLhQBn4UgTLumBjC8UgC_lAIItfA3upgMX6TR-NlL-JkwZNz7z8aHy2n05ilPfycvPqkT",
+            "scheduling": "https://calendar.app.google/SLyL5T2YWNwcFHjA7",
             "online-only": false,
             "topics": [
+                "Communities",
                 "Cross-Cultural Communication",
                 "Community Building",
                 "Personal Branding",
                 "Starting in Tech",
                 "Job Search",
+                "Tokyo",
                 "Japan",
                 "Chatbots",
+                "Improv Comedy",
                 "Nutrition"
             ]
         },
